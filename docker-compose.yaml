@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+  jenkins: 
+    build: .
+    ports: 
+      - 8080:8080
+      - 50000:50000
+    volumes:
+      - ./casc_configs:/var/jenkins_conf
+    environment:
+      - CASC_JENKINS_CONFIG=/var/jenkins_conf
