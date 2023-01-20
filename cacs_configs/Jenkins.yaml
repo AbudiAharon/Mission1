@@ -1,5 +1,5 @@
 jenkins:
-  systemMessage: "\n\my first mission\n\n"
+  systemMessage: "\n\nmy first mission\n\n"
 
   numExecutors: 1
   mode: NORMAL
