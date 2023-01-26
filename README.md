@@ -9,4 +9,4 @@ This implementation can save time by comfiguring beforehand.
 2. config your comfiguring in the casc_configs folder.
 3. add plugins as you wish in the plugins.txt file.
 4. run the project with "docker-compose up" command.
-5. check your jenkins in localhost:50000.
+5. Check your jenkins in localhost:8080.

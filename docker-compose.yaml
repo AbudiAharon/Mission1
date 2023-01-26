@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
   jenkins: 
-    build: .
+    build: . #searching Dockerfile in the same directory. 
     ports: 
       - 8080:8080
       - 50000:50000
