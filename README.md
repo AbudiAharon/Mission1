@@ -6,7 +6,7 @@ This implementation can save time by configuring beforehand.
 
 ## Installation 
 1. Git clone this project.
-2. Config you are configuring in the casc_configs folder.
+2. Config your configuring in the casc_configs folder.
 3. Add plugins as you wish in the plugins.txt file.
 4. Run the project with "docker-compose up" command.
 5. Check your Jenkins in localhost:8080.
